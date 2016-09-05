@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
         petDetailsLp.setParallaxMultiplier(0.9f);
         petBackgroundLp.setParallaxMultiplier(0.3f);
 
+
         mIvPlaceholder.setLayoutParams(petDetailsLp);
         mFlTlTitleContainer.setLayoutParams(petBackgroundLp);
     }
